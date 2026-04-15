@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  height: 700px;
+  height: 100vh;
   /* height: 100%; */
   background-image: url("../imgs/bg.jpg");
   background-repeat: no-repeat;
